@@ -8,7 +8,6 @@ This project aims to predict hard drive failures using supervised learning techn
 - `hard_drive_failure_model.pkl`: The trained machine learning model.
 - `hard_drive_failure_prediction.py`: The script used for making predictions.
 - `hard_drive_scaler.pkl`: The scaler used for normalizing the data.
-- `harddrive.csv`: The dataset containing historical hard drive data.
 
 ## Requirements
 - Python 3.x
